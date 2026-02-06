@@ -2,7 +2,7 @@
 
 Vito Narančić-code, idea, graphics
 
-Robert-Lead Beta tester, QA
+Robert Vinceković-Lead Beta tester, QA
 
 Griffpatch-text writing script 
 
